@@ -8,4 +8,4 @@ Welcome. Below are technologies I use and love:
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=MarinoLinic&style=for-the-badge&label=Profile+views+in+the+last+2+weeks&color=CD5C5C)
+![](https://komarev.com/ghpvc/?username=MarinoLinic&style=for-the-badge&label=Profile+views+in+the+last+14+days&color=CD5C5C)
