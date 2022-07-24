@@ -1,4 +1,6 @@
-Welcome. Below are technologies I use and love:
+# Welcome! 
+
+Below are technologies I use and love:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
