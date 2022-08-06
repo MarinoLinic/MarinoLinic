@@ -1,6 +1,6 @@
 # Hey! 
 
-Listed below are the tech stack I use, learn, and love:
+Listed below are the parts of my tech stack I use, learn, and love:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
