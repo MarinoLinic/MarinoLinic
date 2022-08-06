@@ -1,6 +1,6 @@
 # Hey! 
 
-Listed below are technologies I use, learn, and love:
+Listed below are the tech stack I use, learn, and love:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -19,6 +19,6 @@ My YT channel (work in progress):
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
 </a>
 
-(check this to complete: https://github.com/DenverCoder1/github-readme-youtube-stats)
+// (check this to complete: https://github.com/DenverCoder1/github-readme-youtube-stats)
 
 ![](https://komarev.com/ghpvc/?username=MarinoLinic&style=for-the-badge&label=Profile+views+in+the+last+14+days&color=CD5C5C)
