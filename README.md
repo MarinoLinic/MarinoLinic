@@ -1,4 +1,4 @@
-# Welcome! 
+# Hey! 
 
 Listed below are technologies I use, learn, and love:
 
@@ -11,5 +11,14 @@ Listed below are technologies I use, learn, and love:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <hr>
+
+I have much to learn. My main interests are frontend web development and machine learning. I will likely also get to know backend quite well at some point.
+
+My YT channel (work in progress):
+<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+</a>
+
+(check this to complete: https://github.com/DenverCoder1/github-readme-youtube-stats)
 
 ![](https://komarev.com/ghpvc/?username=MarinoLinic&style=for-the-badge&label=Profile+views+in+the+last+14+days&color=CD5C5C)
