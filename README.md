@@ -12,13 +12,14 @@ Listed below are the parts of my tech stack I use, learn, and love:
 
 <hr>
 
-I have much to learn. My main interests are frontend web development and machine learning. I will likely also get to know backend quite well at some point.
+My main interests are frontend web development and machine learning. I will likely also get to know backend quite well at some point.
 
 My YT channel (work in progress):
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
 
-// (check this to complete: https://github.com/DenverCoder1/github-readme-youtube-stats)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)
 
-![](https://komarev.com/ghpvc/?username=MarinoLinic&style=for-the-badge&label=Profile+views+in+the+last+14+days&color=CD5C5C)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)
+
+![](https://komarev.com/ghpvc/?username=MarinoLinic&label=Profile+views&color=CD5C5C)
