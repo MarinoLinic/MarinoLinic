@@ -16,6 +16,4 @@ My main interests are frontend web development and machine learning. I will like
 
 My YT channel (work in progress):
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)   ____   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)   ____   ![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)
-
-![](https://komarev.com/ghpvc/?username=MarinoLinic&label=Profile+views&color=CD5C5C)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)   ___   ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)   ___   ![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)
