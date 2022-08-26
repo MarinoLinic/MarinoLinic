@@ -20,6 +20,9 @@ My YT channel (work in progress):
 
 ![My GitHub Activity](images/userstats.svg)
 
+<hr>
+
+### [Click here](https://drive.google.com/file/d/15ffZXAg4IqIg1fzHCM4SEfwhwbkx_hsq/view?usp=sharing) for my resume!
 
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinoLinic&count_private=true)](https://github.com/MarinoLinic/github-readme-stats)
