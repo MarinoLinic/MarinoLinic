@@ -17,3 +17,10 @@ My main interests are frontend web development and machine learning. I will like
 My YT channel (work in progress):
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg)   ___   [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg)   ___   [![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)](https://twitter.com/MarinoLinic)
+
+![My GitHub Activity](images/userstats.svg)
+
+
+<!--
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinoLinic&count_private=true)](https://github.com/MarinoLinic/github-readme-stats)
+-->
