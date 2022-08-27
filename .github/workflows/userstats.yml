@@ -2,7 +2,7 @@ name: user-statistician
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
       
     steps:
-    - uses: actions/checkout@v2
+    - uses: cicirello/user-statistician@v1.15.1
 
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
