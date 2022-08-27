@@ -16,12 +16,13 @@ My YT channel (work in progress):
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg)   ___   [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg)   ___   [![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)](https://twitter.com/MarinoLinic)
 
-![My GitHub Activity](images/userstats.svg)
-
 <hr>
 
-### [Click here](https://drive.google.com/file/d/15ffZXAg4IqIg1fzHCM4SEfwhwbkx_hsq/view?usp=sharing) for my resume!
+
+
+<h4><a href="https://drive.google.com/file/d/15ffZXAg4IqIg1fzHCM4SEfwhwbkx_hsq/view?usp=sharing"><img src="images/download.svg" alt="animation" width="15"/> Click here</a> for my resume!</h4>
 
 <!--
+![My GitHub Activity](images/userstats.svg)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinoLinic&count_private=true)](https://github.com/MarinoLinic/github-readme-stats)
 -->
