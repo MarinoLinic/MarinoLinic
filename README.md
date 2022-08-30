@@ -12,6 +12,10 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |  | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |  |  |  |
 
+<!--
+|  |  |  |  |
+-->
+
 <hr>
 
 ![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/overview.svg#gh-dark-mode-only)
