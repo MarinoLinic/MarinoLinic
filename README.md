@@ -18,7 +18,8 @@ My YT channel (work in progress):
 
 <hr>
 
-
+![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <h4><a href="https://drive.google.com/file/d/15ffZXAg4IqIg1fzHCM4SEfwhwbkx_hsq/view?usp=sharing"><img src="images/download.svg" alt="animation" width="15"/> Click here</a> for my resume!</h4>
 
