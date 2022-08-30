@@ -1,6 +1,10 @@
 # Hey! 
 
-Listed below are the parts of my tech stack I use, learn, and love:
+My main interest is in frontend web development, but I intend to get to know the backend quite well, and have a thing for machine learning.
+
+You can visit my portfolio at http://linic.net (currently down).
+
+Listed in the table below are the parts of my tech stack I use, learn, and love:
 
 | Languages | Libraries | Frameworks | Databases |
 | --------- | --------- | ---------- | --------- |
@@ -10,16 +14,15 @@ Listed below are the parts of my tech stack I use, learn, and love:
 
 <hr>
 
-My main interests are frontend web development and machine learning. I will likely also get to know backend quite well at some point.
-
-My YT channel (work in progress):
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg)   ___   [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg)   ___   [![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)](https://twitter.com/MarinoLinic)
+![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <hr>
 
-![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+My programming-related channel (work in progress) and other social media:
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg) ‎ ‎ ‎ [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg) ‎ ‎ ‎ [![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)](https://twitter.com/MarinoLinic)
 
 <h4><a href="https://drive.google.com/file/d/15ffZXAg4IqIg1fzHCM4SEfwhwbkx_hsq/view?usp=sharing"><img src="images/download.svg" alt="animation" width="15"/> Click here</a> for my resume!</h4>
 
