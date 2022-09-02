@@ -3,7 +3,7 @@
 My main interest is in frontend web development, but I intend to get to know the backend quite well, and have a thing for machine learning.
 
 <p>
-You can visit my portfolio at <a href="http://linic.net">linic.net</a> (currently down).
+  You can visit my portfolio at <strong><a href="http://linic.net">linic.net</a></strong> (currently down).
 <img src="images/rings.svg" alt="animation" width="25"/>
 </p>
 
