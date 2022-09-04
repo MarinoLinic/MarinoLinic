@@ -1,6 +1,6 @@
 # Hey! 
 
-My main interest is in frontend web development, but I intend to get to know the backend quite well, and have a thing for machine learning.
+My main interest is frontend web development! I am learning the backend too, and intend to get into ML at some point.
 
 <p>
   You can visit my portfolio at <strong><a href="http://linic.net">linic.net</a></strong> (currently down).
