@@ -1,6 +1,6 @@
 # Hey! 
 
-My main interest is frontend web development, but I most certainly find it incomplete without understanding the backend. :)
+My main interest is frontend web development — as I learn more backend on the side. :)
 
 <p>
   You can visit my portfolio at <strong><a href="http://linic.net">linic.net</a></strong> (currently down).
