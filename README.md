@@ -21,8 +21,8 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 
 <hr>
 
-![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MarinoLinic/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/languages.svg#gh-dark-mode-only)
 
 <hr>
 
