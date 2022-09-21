@@ -19,6 +19,8 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 |  |  |  |  |
 -->
 
+Other: C++, Prisma
+
 <hr>
 
 ![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/overview.svg#gh-dark-mode-only)
