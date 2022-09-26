@@ -1,6 +1,6 @@
 # Hey! 
 
-My main interest is web development. I lean towards the frontend, but I would be left dissatisfied without having an intricate understanding of the whole thing.
+My main interest is web development. I lean towards the frontend, but ultimately aiming for an intricate, comprehensive understanding of the web.
 
 <p>
   You can visit my portfolio at <strong><a href="http://linic.net">linic.net</a></strong> (currently down).
