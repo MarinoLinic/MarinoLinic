@@ -3,7 +3,7 @@
 My main interest is web development. I lean towards the frontend, but ultimately aim for a comprehensive understanding of the web.
 
 <p>
-  You can visit my portfolio at <strong><a href="http://linic.net">linic.net</a></strong> (currently down).
+  You can visit my portfolio at <strong><a href="http://linic.net">linic.net</a></strong>.
 <img src="images/rings.svg" alt="animation" width="25"/>
 </p>
 
