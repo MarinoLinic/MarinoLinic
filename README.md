@@ -19,7 +19,7 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 |  |  |  |  |
 -->
 
-Other: C++, CSS, Prisma, Next-Auth, Pillow (PIL)
+Other: Git (obv), C++, CSS, Prisma, NextAuth, Pillow (PIL). I have experience with Bash, signals, and can easily work on Linux.
 
 <hr>
 
