@@ -23,7 +23,7 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 
 > Things I've worked with in the past: C++, NextAuth, Pillow (PIL)
 
-<sub>I have experience with Bash, Python signals & threading, and can easily work with Unix-like systems.</sub>
+<sub>I have experience with Bash, Python OS signals & threading, and can easily work with Unix-like systems.</sub>
 
 <hr>
 
