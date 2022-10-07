@@ -19,11 +19,10 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 |  |  |  |  |
 -->
 
-Tightly related skills: CSS, Git, Prisma
+> Tightly related skills: CSS, Git, Prisma
+> Things I've worked with in the past: C++, NextAuth, Pillow (PIL)
 
-Things I've worked with in the past: C++, NextAuth, Pillow (PIL)
-
-I have experience with Bash, signals, and can easily work within Unix-like systems.
+<sub>I have experience with Bash, signals, and can easily work within Unix-like systems.</sub>
 
 <hr>
 
