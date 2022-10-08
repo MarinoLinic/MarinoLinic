@@ -19,7 +19,7 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 |  |  |  |  |
 -->
 
-> Tightly related skills: CSS, Git, Prisma
+> Related skills: Git, CSS, Prisma
 
 > Things I've worked with in the past: C++, NextAuth, Pillow (PIL)
 
@@ -33,7 +33,7 @@ Listed in the table below are the parts of my tech stack I use, learn, and love:
 <hr>
 
 
-My programming-related channel (work in progress) and other social media:
+Social media (work in progress):
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg) ‎ ‎ ‎ [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg) ‎ ‎ ‎ [![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)](https://twitter.com/MarinoLinic)
 
