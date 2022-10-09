@@ -37,7 +37,7 @@ Social media (work in progress):
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg) ‎ ‎ ‎ [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC-TXTkze3ZC7WBtzg6Z99jg?style=social)](https://www.youtube.com/channel/UC-TXTkze3ZC7WBtzg6Z99jg) ‎ ‎ ‎ [![Twitter Follow](https://img.shields.io/twitter/follow/MarinoLinic?style=social)](https://twitter.com/MarinoLinic)
 
-<h4><a href="https://drive.google.com/file/d/15ffZXAg4IqIg1fzHCM4SEfwhwbkx_hsq/view?usp=sharing"><img src="images/download.svg" alt="animation" width="20"/> Click here</a> for my resume!</h4>
+<h4><a href="https://drive.google.com/file/d/1jsVgAzWsNqjsLoU98-ROOF7SjNWPai7E/view?usp=sharing"><img src="images/download.svg" alt="animation" width="20"/> Click here</a> for my resume!</h4>
 
 <!--
 ![My GitHub Activity](images/userstats.svg)
