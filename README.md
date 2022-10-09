@@ -3,7 +3,7 @@
 My main interest is web development. I lean towards the frontend, but ultimately strive for a comprehensive understanding of the web.
 
 <p>
-  You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a loot at my <a href="https://linic.net/portfolio">portfolio</a> (incomplete)
+  You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <a href="https://linic.net/portfolio">portfolio</a> (incomplete)
 <img src="images/rings.svg" alt="animation" width="25"/>
 </p>
 
