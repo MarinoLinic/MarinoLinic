@@ -4,7 +4,7 @@ I am interested in web development. I lean towards the frontend, but ultimately 
 
 <p>
   You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <a href="https://linic.net/portfolio">portfolio</a> (incomplete)
-<img src="images/rings.svg" alt="animation" width="25"/>
+<img src="images/rings.svg" alt="animation" width="30"/>
 </p>
 
 Listed in the table below are the parts of my tech stack I use, learn, and love:
