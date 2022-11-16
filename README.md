@@ -1,6 +1,6 @@
 # Hey! 
 
-I lean towards the frontend, but ultimately strive for a comprehensive understanding of the web.
+I lean towards the frontend, yet strive to get a comprehensive understanding of the web.
 
 <p>
   You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <a href="https://linic.net/portfolio">portfolio</a> (which is incomplete at this time)
