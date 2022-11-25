@@ -1,6 +1,6 @@
 # Hey! 
 
-I strive to get a comprehensive understanding of the web. Started with frontend. 
+I strive to have a comprehensive understanding of the web. Started with frontend. 
 
 <p>
   You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <strong><a href="https://linic.net/portfolio">portfolio</a></strong> (which is incomplete at this time)
