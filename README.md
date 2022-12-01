@@ -1,6 +1,6 @@
 # Hey! 
 
-I strive to have a comprehensive understanding of the web. Frontend's been first on the list. 
+I strive to have a comprehensive understanding of the web.
 
 <p>
 You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <strong><a href="https://linic.net/portfolio">portfolio</a></strong>. (Which is incomplete at this time.)
