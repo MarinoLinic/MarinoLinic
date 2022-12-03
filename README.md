@@ -19,7 +19,7 @@ Here are the parts of my tech stack I use, learn, and love:
 |  |  |  |  |
 -->
 
-> Related things I've learned: Git, CSS, Prisma, NextAuth 
+> I've also learned: Git, CSS, Prisma, NextAuth 
 
 > Stuff I've worked with in the past: C++, Pillow (PIL)
 
