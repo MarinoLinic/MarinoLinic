@@ -3,7 +3,7 @@
 I strive to acquire a comprehensive understanding of the web.
 
 <p>
-You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <strong><a href="https://linic.net/portfolio">portfolio</a></strong>. (Which is incomplete at this time.)
+You can visit my website at <strong><a href="http://linic.net">linic.net</a></strong> and have a look at my <strong><a href="https://linic.net/portfolio">portfolio</a></strong>. (Which is incomplete at this time, so it's unavailable.)
 <img src="images/rings.svg" alt="animation" width="30"/>
 </p>
 
