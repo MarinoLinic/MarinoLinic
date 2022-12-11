@@ -7,7 +7,7 @@ You can visit my website at <strong><a href="http://linic.net">linic.net</a></st
 <img src="images/rings.svg" alt="animation" width="30"/>
 </p>
 
-Here are the parts of my tech stack I use, learn, and love:
+These are the parts of my tech stack I use, learn, and love:
 
 | Languages | Libraries | Frameworks | Databases |
 | --------- | --------- | ---------- | --------- |
