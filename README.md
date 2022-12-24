@@ -1,5 +1,3 @@
-# Hey! 
-
 I strive to acquire a comprehensive understanding of the web.
 
 <p>
