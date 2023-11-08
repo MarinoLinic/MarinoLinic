@@ -27,7 +27,7 @@ These are the parts of my tech stack I use, learn, and love:
 
 <hr>
 
-↓ The number of stars and forks I have is somewhat misleading because a repo I contributed to counts as _my_ repo by the software. ↓
+↓ The number of stars and forks I have is somewhat misleading because a repo I contributed to counts as _my_ repo according to the software. Everything else is accurate.
 
 ![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/languages.svg#gh-dark-mode-only)
