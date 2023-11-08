@@ -27,6 +27,8 @@ These are the parts of my tech stack I use, learn, and love:
 
 <hr>
 
+↓ The number of stars I have are somewhat misleading because a repo I contributed to counts as stars _I've_ received. ↓
+
 ![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MarinoLinic/MarinoLinic/main/generated/languages.svg#gh-dark-mode-only)
 
