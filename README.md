@@ -1,3 +1,5 @@
+![](https://readme-typing-svg.demolab.com/?lines=Marino+Linić;Developer,+musician,+photographer)
+
 I strive to acquire a comprehensive understanding of the web.
 
 <p>
